@@ -1,0 +1,7 @@
+{
+  "data_file": "data/dataset1-unrecognized-requests.csv",
+  "output_file": "output/dataset1-clustering-min-size-10.json",
+  "example_solution_file": "output/dataset1-clustering-min-size-10-solution.json",
+  "num_of_representatives": "3",
+  "min_cluster_size": "10"
+}
